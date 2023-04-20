@@ -1,1 +1,3 @@
-window.alert("ブラウザオブジェクトの取得に成功！")
+let lists;
+document.getElementById("lists")
+console.log(document.getElementById("lists"));
